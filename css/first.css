@@ -26,6 +26,12 @@
   font-style: 'normal';
 }
 @font-face {
+  font-family: 'Monaco';
+  src: url("https://cdn.jsdelivr.net/gh/smireshang/solid@main/Moon%20Light.otf");
+  font-weight: 'light';
+  font-style: 'light';
+}
+@font-face {
   font-family: 'Varela Round';
   src: url("https://cdn.jsdelivr.net/gh/smireshang/solid@main/ReggaeOne.woff2");
   font-weight: 'normal';
