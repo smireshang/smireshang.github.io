@@ -578,7 +578,7 @@ pre .coffeescript .title {
 }
 html {
   font-family: system-ui, "Microsoft Yahei", "Segoe UI", -apple-system, Roboto, Ubuntu, "Helvetica Neue", Arial, "WenQuanYi Micro Hei", sans-serif;
-  font-size: 16px;
+  font-size: 15px;
 }
 body {
   background: var(--site-bg);
