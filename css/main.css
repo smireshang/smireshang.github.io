@@ -77,6 +77,8 @@ hr {
 h2 {
   font-family: 'Dosis';
   src: url("https://cdn.jsdelivr.net/gh/volantis-x/cdn-fonts@20.5.30/Dosis/Dosis-Medium.ttf");
+  font-weight: normal;
+  font-style: normal;
 }
 img {
   max-width: 100%;
