@@ -1,3 +1,9 @@
+@font-face {
+  font-family: 'Dosis';
+  src: url("https://cdn.jsdelivr.net/gh/volantis-x/cdn-fonts@20.5.30/Dosis/Dosis-Medium.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
 :root {
   --width-left: 256px;
   --width-main: 680px;
