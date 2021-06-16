@@ -80,6 +80,9 @@ hr {
   color: var(--text-meta);
   opacity: 0.1;
 }
+h2 {
+  font-family: 'Dosis';
+}
 img {
   max-width: 100%;
 }
